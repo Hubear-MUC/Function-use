@@ -5,6 +5,8 @@ The project to actually call the function of the previous project (f).
 
 The file with the function was placed in a directory named "TB" (for "Tool Box") placed one directory- hierarchy layer above to try out the usage of a "library"- directory in the same project.
 
+Due to reorganizations the directory "TB" was removed again.
+
 
 1  #include"f.cpp"
 2  double a,b,e;
