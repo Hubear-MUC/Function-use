@@ -6,7 +6,7 @@ The project to actually call the function of the previous project (f).
 The file with the function was placed in a directory named "TB" (for "Tool Box") placed one directory- hierarchy layer above to try out the usage of a "library"- directory in the same project.
 
 
-1  #include"../TB/f.cpp"
+1  #include"f.cpp"
 2  double a,b,e;
 3  main()
 4  {e=f(a,b);
